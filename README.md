@@ -1,13 +1,5 @@
 # Weather CLI - A Simple Command-Line Weather App
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About the Project
 Weather CLI is a simple command-line application built with Python. It utilizes the OpenWeatherMap API to fetch and display the current weather conditions for a given city. This project aims to provide a straightforward, text-based interface for quick weather checks.
 
